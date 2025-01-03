@@ -22,3 +22,21 @@ print(d)
 print(e)
 print(f)
 
+#one value to multiple variables
+g = h = i = "lichi"
+print(g)
+print(h)
+print(i)
+
+#unpacking
+fruits = ["apple", "banana", "cherry"]
+j, k, l = fruits
+print(j)
+print(k)
+print(l)
+
+#output multiple variables
+m = "monkey"
+n = "night"
+o = "orange"
+print(m,n,o)
