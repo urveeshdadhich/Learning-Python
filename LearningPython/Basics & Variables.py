@@ -39,4 +39,11 @@ print(l)
 m = "monkey"
 n = "night"
 o = "orange"
-print(m,n,o)
+print(m,n,o)   #with spaces
+print(m + n + o)  #without spaces
+
+#for numbers '+' works as mathematical operator
+p = 5
+q = 5
+print(p + q)
+
